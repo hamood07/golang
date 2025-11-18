@@ -1,3 +1,3 @@
-module github.com/hamood07/golang
+module golang
 
 go 1.22
